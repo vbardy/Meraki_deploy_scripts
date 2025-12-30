@@ -60,7 +60,7 @@
 # v4.1 - Added support WFI BTQ's
 # v4.1.1 - Fixed access to China Dashboard when getting organization networks.
 # v4.1.1 - Replaced ICS with GT on team banner
-# v4.2 - Added support for new Checkpoint Office Template
+# v4.2 - Added support for new Checkpoint Office Template and Git
 
 import sys, getopt, requests, json, time, re, meraki
 
